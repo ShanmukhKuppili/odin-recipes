@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
+h1 {
+    color: brown;
+}
+
+h3 {
+    color: chocolate;
+}
+
+img {
+    border-radius: 10%;
+    border: 5px burlywood solid;
+    width: 500px;
+    height: auto;
+}
+
+a {
+    display: block;
+    margin: 12px 0;
+    color: orangered;
+    font-size: large;
+}
+
+ol, ul {
+    border-radius: 5%;
+    padding: 10px 20px;
+    background-color: rgb(255, 232, 140);
+}
